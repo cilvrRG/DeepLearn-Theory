@@ -19,6 +19,7 @@ and possibly a bit of the mathematical context that is required to address it.
   - Stochastic Optimization and Stability.
   - Gradient Descent, bassins of Attraction and Tensor Analysis.
   - Graph Theory, Invariance Groups and Convolutions.
+  - Bandits.
   
 ##Tentative Agenda:
   - [9/22]: Optimization: Convex Review
@@ -39,7 +40,9 @@ and possibly a bit of the mathematical context that is required to address it.
     - [Renormalization Group: an introduction](http://www-math.unice.fr/~patras/CargeseConference/ACQFT09_JZinnJustin.pdf)
     - [K. Wilson](http://www.nobelprize.org/nobel_prizes/physics/laureates/1982/wilson-lecture.pdf)
     - [A mapping between RG and Deep Learning](http://arxiv.org/pdf/1410.3831v1.pdf)
-...
+  - [11/10]: Microcanonical Mixtures and CNNs.
+    - Max-Entropy Gaussaniazation by Multiscale Scattering (J.B, S.M). 
+  - [11/17]: Random Graphs. Clustering and Graph Neural Networks. 
 
 
 
