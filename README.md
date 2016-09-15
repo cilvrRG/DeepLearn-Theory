@@ -28,9 +28,20 @@ and possibly a bit of the mathematical context that is required to address it.
     - [Learn Faster, Generalize Better](https://arxiv.org/abs/1509.01240) by Hardt, Recht and Singer.
   - [10/6]: Optimization: Non-Convex   
     - [Gradient Descent Conveges to Minimizers](https://pdfs.semanticscholar.org/9b8b/e6c3ebd7a79975067214e5eaea05d4ac2384.pdf) Lee et al.
-    - [When are Nonconvex Problems Not Scary](http://arxiv.org/pdf/1510.06096v2.pdf), by Sun et al.
+    - [When are Nonconvex Problems Not Scary?](http://arxiv.org/pdf/1510.06096v2.pdf), by Sun et al.
   - [10/13]: Optimization: Neural Networks
     - [On the Quality of the Initial Bassin in overspecified Neural Networks](http://arxiv.org/abs/1511.04210), Safran and Shamir.
+  - [10/20]: Statistical Physics Basics
+    - The Spin Glass Model.
+  - [10/27]: Statistical Physics II
+    - Large Deviation Principles, Micro-canonical ensembles.
+  - [11/3]: The Renormalization Group 
+    - [Renormalization Group: an introduction](http://www-math.unice.fr/~patras/CargeseConference/ACQFT09_JZinnJustin.pdf)
+    - [K. Wilson](http://www.nobelprize.org/nobel_prizes/physics/laureates/1982/wilson-lecture.pdf)
+    - [A mapping between RG and Deep Learning](http://arxiv.org/pdf/1410.3831v1.pdf)
+...
+
+
 
 ##Pool of Papers/Books
   - Les Houches Ellis Statistical Physics.
