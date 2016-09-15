@@ -38,7 +38,7 @@ and possibly a bit of the mathematical context that is required to address it.
     - Large Deviation Principles, Micro-canonical ensembles.
   - [11/3]: The Renormalization Group 
     - [Renormalization Group: an introduction](http://www-math.unice.fr/~patras/CargeseConference/ACQFT09_JZinnJustin.pdf)
-    - [K. Wilson](http://www.nobelprize.org/nobel_prizes/physics/laureates/1982/wilson-lecture.pdf)
+    - [K. Wilson Nobel Lecture](http://www.nobelprize.org/nobel_prizes/physics/laureates/1982/wilson-lecture.pdf)
     - [A mapping between RG and Deep Learning](http://arxiv.org/pdf/1410.3831v1.pdf)
   - [11/10]: Microcanonical Mixtures and CNNs.
     - Max-Entropy Gaussaniazation by Multiscale Scattering (J.B, S.M). 
