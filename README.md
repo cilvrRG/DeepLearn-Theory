@@ -8,7 +8,7 @@ We are particularly interested in connections with statistical physics, optimiza
 and harmonic analysis. Everyone is welcome.
 
 ##Information 
-Thursdays at 4pm, Center for Data Science, NYU. 60 5th ave, 6th floor. 
+Thursdays at 5pm, Center for Data Science, NYU. 60 5th ave, 6th floor. 
 ##Logistics 
 The goal is that each week a designated person will present a selected paper, 
 and possibly a bit of the mathematical context that is required to address it. 
