@@ -35,7 +35,7 @@ and possibly a bit of the mathematical context that is required to address it.
   - [10/20]: Statistical Physics Basics
     - The Spin Glass Model.
   - [10/27]: Statistical Physics II
-    - Large Deviation Principles, Micro-canonical ensembles.
+    - Large Deviation Principles, Micro-canonical ensembles, Entropy.
   - [11/3]: The Renormalization Group
     - [Renormalization Group: an introduction](http://www-math.unice.fr/~patras/CargeseConference/ACQFT09_JZinnJustin.pdf)
     - [K. Wilson Nobel Lecture](http://www.nobelprize.org/nobel_prizes/physics/laureates/1982/wilson-lecture.pdf)
