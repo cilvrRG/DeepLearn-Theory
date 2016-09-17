@@ -32,23 +32,27 @@ and possibly a bit of the mathematical context that is required to address it.
     - [When are Nonconvex Problems Not Scary?](http://arxiv.org/pdf/1510.06096v2.pdf), by Sun et al.
   - [10/13]: Optimization: Neural Networks
     - [On the Quality of the Initial Bassin in overspecified Neural Networks](http://arxiv.org/abs/1511.04210), Safran and Shamir.
+  - [10/20]: Optimization: Neural Networks
     - [Convexified Convolutional Neural Networks](http://arxiv.org/pdf/1609.01000v1.pdf), Zhang, P.Liang, M. Wainwright.
     - [Learning Half-Spaces and Neural Networks with Random Initializations](http://arxiv.org/pdf/1511.07948v1.pdf), Zhang et al.
-  - [10/20]: Statistical Physics Basics
+  - [10/27]: Statistical Physics Basics
     - The Spin Glass Model.
-  - [10/27]: Statistical Physics II
+  - [11/3]: Statistical Physics II
     - Large Deviation Principles, Micro-canonical ensembles, Entropy.
-  - [11/3]: The Renormalization Group
+  - [11/10]: The Renormalization Group
     - [Renormalization Group: an introduction](http://www-math.unice.fr/~patras/CargeseConference/ACQFT09_JZinnJustin.pdf)
     - [K. Wilson Nobel Lecture](http://www.nobelprize.org/nobel_prizes/physics/laureates/1982/wilson-lecture.pdf)
     - [A mapping between RG and Deep Learning](http://arxiv.org/pdf/1410.3831v1.pdf)
-  - [11/10]: Microcanonical Mixtures and CNNs.
+  - [11/17]: Microcanonical Mixtures and CNNs.
     - Max-Entropy Gaussaniazation by Multiscale Scattering (J.B, S.M). 
-  - [11/17]: Random Graphs. Clustering and Graph Neural Networks. 
+  - [11/24]: Random Graphs. Clustering and Graph Neural Networks. 
+    - The Stochastic Block Model
+    - Spectral Methods
+    - Semi-definite Programming.
+  - [12/1]: Deep Learning on Graphs
+    - Geometric Deep Learning, by Bronstein, Bruna, Szlam, Lecun, Vandergyst.
 
-
-
-##Pool of Papers/Books
+##Pool of Papers/Books [please fill]
   - Les Houches Ellis Statistical Physics.
   - Gibbs Models and Sampling.
   - Renormalization Group (RG)
