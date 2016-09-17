@@ -1,6 +1,6 @@
 # DeepLearn-Theory
 Reading Group on Topics on theoretical, mathematical aspects of DL.
-NYU, Fall 2016. 
+NYU, Fall 2016. Moderator: J. Bruna
 
 The purpose of this reading group is to define good open problems that relate 
 Deep Learning models with aspects of statistics, applied maths and physics.
