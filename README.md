@@ -32,6 +32,8 @@ and possibly a bit of the mathematical context that is required to address it.
     - [When are Nonconvex Problems Not Scary?](http://arxiv.org/pdf/1510.06096v2.pdf), by Sun et al.
   - [10/13]: Optimization: Neural Networks
     - [On the Quality of the Initial Bassin in overspecified Neural Networks](http://arxiv.org/abs/1511.04210), Safran and Shamir.
+    - [Convexified Convolutional Neural Networks](http://arxiv.org/pdf/1609.01000v1.pdf), Zhang, P.Liang, M. Wainwright.
+    - [Learning Half-Spaces and Neural Networks with Random Initializations](http://arxiv.org/pdf/1511.07948v1.pdf), Zhang et al.
   - [10/20]: Statistical Physics Basics
     - The Spin Glass Model.
   - [10/27]: Statistical Physics II
