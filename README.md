@@ -53,7 +53,7 @@ and possibly a bit of the mathematical context that is required to address it.
     - Spectral Methods
     - Graph Neural Networks
     - Semidefinite Programming. 
-  - [12/1]: Deep Learning on Graphs
+  - [12/8]: Deep Learning on Graphs
     - Geometric Deep Learning, by Bronstein, Bruna, Szlam, Lecun, Vandergyst.
 
 ##Pool of Papers/Books [please fill]
