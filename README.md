@@ -1,6 +1,6 @@
 # DeepLearn-Theory
 Reading Group on Topics on theoretical, mathematical aspects of DL.
-NYU, Fall 2016. Moderator: J. Bruna
+NYU, Fall 2016. Moderator: J. Bruna.
 
 The purpose of this reading group is to define good open problems that relate 
 Deep Learning models with aspects of statistics, applied maths and physics.
@@ -10,7 +10,7 @@ and harmonic analysis. Everyone is welcome.
 ##Information 
 **Thursdays at 5pm**, Center for Data Science, NYU. 60 5th ave, 6th floor, **Room 606** 
 ##Logistics 
-The goal is that each week a designated person will present a selected paper, 
+The goal is that each week a designated person(s) will present a selected paper, 
 and possibly a bit of the mathematical context that is required to address it. 
 
 ##Tentative List of Topics:
@@ -45,10 +45,14 @@ and possibly a bit of the mathematical context that is required to address it.
     - [A mapping between RG and Deep Learning](http://arxiv.org/pdf/1410.3831v1.pdf)
   - [11/17]: Microcanonical Mixtures and CNNs.
     - Max-Entropy Gaussaniazation by Multiscale Scattering (J.B, S.M). 
-  - [11/24]: Random Graphs. Clustering and Graph Neural Networks. 
+  - [11/24]: Random Graphs I.   
     - The Stochastic Block Model
+    - Community Dectection/Clustering.
+    - Other Community models [Modularity and Community Structure in Networks](http://www.pnas.org/content/103/23/8577.full.pdf) 
+  - [12/1]: Algorithms for Random Graphs
     - Spectral Methods
-    - Semi-definite Programming.
+    - Graph Neural Networks
+    - Semidefinite Programming. 
   - [12/1]: Deep Learning on Graphs
     - Geometric Deep Learning, by Bronstein, Bruna, Szlam, Lecun, Vandergyst.
 
