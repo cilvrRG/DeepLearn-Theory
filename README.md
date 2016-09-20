@@ -27,18 +27,18 @@ and possibly a bit of the mathematical context that is required to address it.
     - [Large Scale Machine Learning and convex optimization](http://www.di.ens.fr/~fbach/#tutorials) by Francis Bach. 
   - [9/29]: Optimization: Non-Convex
     - [Learn Faster, Generalize Better](https://arxiv.org/abs/1509.01240) by Hardt, Recht and Singer.
-  - [10/6]: Optimization: Non-Convex   
     - [Gradient Descent Conveges to Minimizers](https://pdfs.semanticscholar.org/9b8b/e6c3ebd7a79975067214e5eaea05d4ac2384.pdf) Lee et al.
+  - [10/6]: Optimization: Non-Convex     
     - [When are Nonconvex Problems Not Scary?](http://arxiv.org/pdf/1510.06096v2.pdf), by Sun et al.
+    - [Beyond Convexity: Stochastic Quasi-Convex Optimization](https://arxiv.org/abs/1507.02030), Hazan, Levy, Shalev.
   - [10/13]: Optimization: Neural Networks
     - [On the Quality of the Initial Bassin in overspecified Neural Networks](http://arxiv.org/abs/1511.04210), Safran and Shamir.
-    - [Beyond Convexity: Stochastic Quasi-Convex Optimization](https://arxiv.org/abs/1507.02030), Hazan, Levy, Shalev.
+    - [Distribution Specific Hardness of Learning Neural Networks](http://arxiv.org/pdf/1609.01037v1.pdf), Shamir.
   - [10/20]: Optimization: Neural Networks
     - [Convexified Convolutional Neural Networks](http://arxiv.org/pdf/1609.01000v1.pdf), Zhang, P.Liang, M. Wainwright.
     - [Learning Half-Spaces and Neural Networks with Random Initializations](http://arxiv.org/pdf/1511.07948v1.pdf), Zhang et al.
   - [10/27] Optimization: Neural Networks
-    - [Gradient Descent learns linear dynamical systems](http://128.84.21.199/pdf/1609.05191.pdf), Hardt, Ma, Recht.
-    - [Distribution Specific Hardness of Learning Neural Networks](http://arxiv.org/pdf/1609.01037v1.pdf), Shamir.
+    - [Gradient Descent learns linear dynamical systems](http://128.84.21.199/pdf/1609.05191.pdf), Hardt, Ma, Recht. 
   - [11/3]: Statistical Physics Basics
     - The Spin Glass Model.
   - [11/10]: Statistical Physics II
@@ -69,6 +69,5 @@ and possibly a bit of the mathematical context that is required to address it.
   - Bassins of Attraction Shamir
   - Randomized PCA (Tygert et Al)
   - 
-
 
 
