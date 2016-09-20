@@ -32,28 +32,32 @@ and possibly a bit of the mathematical context that is required to address it.
     - [When are Nonconvex Problems Not Scary?](http://arxiv.org/pdf/1510.06096v2.pdf), by Sun et al.
   - [10/13]: Optimization: Neural Networks
     - [On the Quality of the Initial Bassin in overspecified Neural Networks](http://arxiv.org/abs/1511.04210), Safran and Shamir.
+    - [Beyond Convexity: Stochastic Quasi-Convex Optimization](https://arxiv.org/abs/1507.02030), Hazan, Levy, Shalev.
   - [10/20]: Optimization: Neural Networks
     - [Convexified Convolutional Neural Networks](http://arxiv.org/pdf/1609.01000v1.pdf), Zhang, P.Liang, M. Wainwright.
     - [Learning Half-Spaces and Neural Networks with Random Initializations](http://arxiv.org/pdf/1511.07948v1.pdf), Zhang et al.
-  - [10/27]: Statistical Physics Basics
+  - [10/27] Optimization: Neural Networks
+    - [Gradient Descent learns linear dynamical systems](http://128.84.21.199/pdf/1609.05191.pdf), Hardt, Ma, Recht.
+    - [Distribution Specific Hardness of Learning Neural Networks](http://arxiv.org/pdf/1609.01037v1.pdf), Shamir.
+  - [11/3]: Statistical Physics Basics
     - The Spin Glass Model.
-  - [11/3]: Statistical Physics II
+  - [11/10]: Statistical Physics II
     - Large Deviation Principles, Micro-canonical ensembles, Entropy.
-  - [11/10]: The Renormalization Group
+  - [11/17]: The Renormalization Group
     - [Renormalization Group: an introduction](http://www-math.unice.fr/~patras/CargeseConference/ACQFT09_JZinnJustin.pdf)
     - [K. Wilson Nobel Lecture](http://www.nobelprize.org/nobel_prizes/physics/laureates/1982/wilson-lecture.pdf)
     - [A mapping between RG and Deep Learning](http://arxiv.org/pdf/1410.3831v1.pdf)
-  - [11/17]: Microcanonical Mixtures and CNNs.
+  - [11/24]: Microcanonical Mixtures and CNNs.
     - Max-Entropy Gaussaniazation by Multiscale Scattering (J.B, S.M). 
-  - [11/24]: Random Graphs I.   
+  - [12/1]: Random Graphs I.   
     - The Stochastic Block Model
     - Community Dectection/Clustering.
     - Other Community models [Modularity and Community Structure in Networks](http://www.pnas.org/content/103/23/8577.full.pdf) 
-  - [12/1]: Algorithms for Random Graphs
+  - [12/8]: Algorithms for Random Graphs
     - Spectral Methods
     - Graph Neural Networks
     - Semidefinite Programming. 
-  - [12/8]: Deep Learning on Graphs
+  - [12/15]: Deep Learning on Graphs
     - Geometric Deep Learning, by Bronstein, Bruna, Szlam, Lecun, Vandergyst.
 
 ##Pool of Papers/Books [please fill]
@@ -65,7 +69,6 @@ and possibly a bit of the mathematical context that is required to address it.
   - Bassins of Attraction Shamir
   - Randomized PCA (Tygert et Al)
   - 
-
 
 
 
