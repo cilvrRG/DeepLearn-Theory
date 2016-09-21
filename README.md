@@ -8,7 +8,7 @@ We are particularly interested in connections with statistical physics, optimiza
 and harmonic analysis. Everyone is welcome.
 
 ##Information 
-**Thursdays at 5:30pm**, Center for Data Science, NYU. 60 5th ave, 6th floor, **Room 606** 
+**Thursdays at 5:30pm**, Center for Data Science, NYU. 60 5th ave, ~~6th floor, **Room 606**~~, **7th floor open-space**.  
 ##Logistics 
 The goal is that each week a designated person(s) will present a selected paper, 
 and possibly a bit of the mathematical context that is required to address it. 
