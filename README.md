@@ -25,16 +25,17 @@ and possibly a bit of the mathematical context that is required to address it.
   - [9/22]: Optimization: Convex Review
     - [Theory of Convex Optimization](https://pdfs.semanticscholar.org/6505/a994da58234499dd7a8546bc07d9fd596518.pdf), by S. Bubeck.
     - [Large Scale Machine Learning and convex optimization](http://www.di.ens.fr/~fbach/#tutorials) by Francis Bach. 
-  - [9/29]: Optimization: Non-Convex
+  - [9/29]: Stochastic Optimization, by Leon Bottou.  
+  - [10/6]: Optimization: Non-Convex
     - [Learn Faster, Generalize Better](https://arxiv.org/abs/1509.01240) by Hardt, Recht and Singer.
     - [Gradient Descent Conveges to Minimizers](https://pdfs.semanticscholar.org/9b8b/e6c3ebd7a79975067214e5eaea05d4ac2384.pdf) Lee et al.
-  - [10/6]: Optimization: Non-Convex     
+  - [10/13]: Optimization: Non-Convex     
     - [When are Nonconvex Problems Not Scary?](http://arxiv.org/pdf/1510.06096v2.pdf), by Sun et al.
     - [Beyond Convexity: Stochastic Quasi-Convex Optimization](https://arxiv.org/abs/1507.02030), Hazan, Levy, Shalev.
-  - [10/13]: Optimization: Neural Networks
+  - [10/20]: Optimization: Neural Networks
     - [On the Quality of the Initial Bassin in overspecified Neural Networks](http://arxiv.org/abs/1511.04210), Safran and Shamir.
     - [Distribution Specific Hardness of Learning Neural Networks](http://arxiv.org/pdf/1609.01037v1.pdf), Shamir.
-  - [10/20]: Optimization: Neural Networks
+  - [10/27]: Optimization: Neural Networks
     - [Convexified Convolutional Neural Networks](http://arxiv.org/pdf/1609.01000v1.pdf), Zhang, P.Liang, M. Wainwright.
     - [Learning Half-Spaces and Neural Networks with Random Initializations](http://arxiv.org/pdf/1511.07948v1.pdf), Zhang et al.
   - [10/27] Optimization: Neural Networks
