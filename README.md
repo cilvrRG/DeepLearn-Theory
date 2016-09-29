@@ -22,7 +22,7 @@ and possibly a bit of the mathematical context that is required to address it.
   - Bandits.
   
 ##Tentative Agenda:
-  - [9/22]: Optimization: Convex Review
+  - [9/22]: Optimization: [Convex Review](Lec1/)
     - [Theory of Convex Optimization](https://pdfs.semanticscholar.org/6505/a994da58234499dd7a8546bc07d9fd596518.pdf), by S. Bubeck.
     - [Large Scale Machine Learning and convex optimization](http://www.di.ens.fr/~fbach/#tutorials) by Francis Bach. 
   - [9/29]: Stochastic Optimization, by Leon Bottou.  
