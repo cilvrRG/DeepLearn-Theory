@@ -25,7 +25,7 @@ and possibly a bit of the mathematical context that is required to address it.
   - [9/22]: [Optimization: Convex Review](Lec1_joan/)
     - [Theory of Convex Optimization](https://pdfs.semanticscholar.org/6505/a994da58234499dd7a8546bc07d9fd596518.pdf), by S. Bubeck.
     - [Large Scale Machine Learning and convex optimization](http://www.di.ens.fr/~fbach/#tutorials) by Francis Bach. 
-  - [9/29]: [Stochastic Optimization, by Leon Bottou](lec2_leonbottou.pdf).  
+  - [9/29]: [Stochastic Optimization, by Leon Bottou](Lec2_leonbottou.pdf).  
   - [10/6]: Optimization: Non-Convex
     - [Learn Faster, Generalize Better](https://arxiv.org/abs/1509.01240) by Hardt, Recht and Singer.
     - [Gradient Descent Conveges to Minimizers](https://pdfs.semanticscholar.org/9b8b/e6c3ebd7a79975067214e5eaea05d4ac2384.pdf) Lee et al.
