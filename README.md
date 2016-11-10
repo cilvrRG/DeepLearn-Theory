@@ -36,13 +36,17 @@ and possibly a bit of the mathematical context that is required to address it.
     - [On the Quality of the Initial Bassin in overspecified Neural Networks](http://arxiv.org/abs/1511.04210), Safran and Shamir.
     - [Distribution Specific Hardness of Learning Neural Networks](http://arxiv.org/pdf/1609.01037v1.pdf), Shamir.
   - [10/27]: Optimization: Neural Networks
-    - [Convexified Convolutional Neural Networks](http://arxiv.org/pdf/1609.01000v1.pdf), Zhang, P.Liang, M. Wainwright.
-    - [Learning Half-Spaces and Neural Networks with Random Initializations](http://arxiv.org/pdf/1511.07948v1.pdf), Zhang et al.
+   
     
   - [11/10] Maithra Raghu (Google Brain)  
     
   - [11/17] Optimization: Neural Networks [**Levent**]
     - [Gradient Descent learns linear dynamical systems](http://128.84.21.199/pdf/1609.05191.pdf), Hardt, Ma, Recht.
+    
+    
+  - [11/24] SDP [**Afonso?**]  
+
+  - [12/1] Semi-definite Programming II [**Agustin**] 
 
 
   - [11/3]: Statistical Physics Basics
