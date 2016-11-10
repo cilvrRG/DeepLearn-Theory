@@ -45,7 +45,7 @@ and possibly a bit of the mathematical context that is required to address it.
     - [Gradient Descent learns linear dynamical systems](http://128.84.21.199/pdf/1609.05191.pdf), Hardt, Ma, Recht.
 
 
-   - [11/3]: Statistical Physics Basics
+  - [11/3]: Statistical Physics Basics
     - The Spin Glass Model.
   - [11/10]: Statistical Physics II
     - Large Deviation Principles, Micro-canonical ensembles, Entropy.
